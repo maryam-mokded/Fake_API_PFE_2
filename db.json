@@ -1,10 +1,10 @@
 {
- "DemandesAdhérents" : [
-        { "id" : 1 , "nom" : " Mokded " , "prenom" : " Maryam " , "Email" : " MokdedMaryam@gmail.com " , "MotDePasse" : " 1234 " , " telephone " : 53740917 , " Association" : " CONECT " , "telephone" : 24159357 , "Date_d_inscription": " 20/08/2022 " },
-        { "id" : 2 , "nom" : " Ben Jemaa " , "prenom" : " Hanin " , "Email" : " BenJemaaHanin@gmail.com " , "MotDePasse" : " 1234 " , " telephone " : 25258147 , "Association" : " AIESEC " , "telephone" : 24159357 , "Date_d_inscription": " 08/10/2021 " },
-        { "id" : 3 , "nom" : " Mejri " , "prenom" : " Salem " , "Email" : " MejriSalem@gmail.com " , "MotDePasse" : " 1234 " , " telephone " : 5896258 , " Association" : " MCNCOM " , " téléphone " : 24159357 , " Date_d_inscription ": " 01/05/2022 " },
-        { "id" : 4 , "nom" : " Ben Aissa " , "prenom" : " Amira " , "Email" : " AmiraBenAissa@gmail.com " , "MotDePasse" : " 1234 " , " telephone " : 25147258 , "Association" : " Jamaity " , " téléphone " : 24159357 , "Date_d_inscription" : " 19/09/2018 "  },
-        { "id" : 5 , "nom" : " Salmi " , "prenom" : " Mohamed " , "Email" : " SalmiMohamed@gmail.com " , "MotDePasse" : " 1234 " , " telephone " : 24158369 , " Association" : " Jeunes Leaders " , " téléphone " : 24159357 , "Date_d_inscription" : " 25/12/2021 " },
-        { "id" : 6 , "nom" : " Ben Ali " , "prenom" : " Salim " , "Email" : " SalimBenAmi@gmail.com " , "MotDePasse" : " 1234 " , " telephone " : 58987456 , "Association" : " Association MARAM " , " téléphone " : 24159357 , "Date_d_inscription" : " 28/05/2017 " }
+ "Offres": [
+        { "id" : 1 , "titre_offre" : "offre__1" , "Description_offre" : "Maryam"},
+        { "id" : 2 , "titre_offre" : "offre__2" , "Description_offre" : "Hanin"},
+        { "id" : 3 , "titre_offre" : "offre__3" , "Description_offre" : "Salem"},
+        { "id" : 4 , "titre_offre" : "offre__4" , "Description_offre" : "Amira"},
+        { "id" : 5 , "titre_offre" : "offre__5" , "Description_offre" : "Mohamed"},
+        { "id" : 6 , "titre_offre" : "offre__6" , "Description_offre" : "Salim "}
 ]
 }
