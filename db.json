@@ -37,36 +37,7 @@
           "Date_de_naissance": "2022-02-13"
         }
       },
-      {
-        "id": 4,
-        "name": "ISET Rades",
-        "logo": "IsetRades.jpg",
-        "date_partenariat": "2022-02-13",
-        "representant": {
-          "id": 1,
-          "nom": "Zoghbi",
-          "prenom": "Imen",
-          "Email": "ZoghbiImen@gmail.com",
-          "telephone": 85236974,
-          "Adresse": "Rades",
-          "CIN": 78965412,
-          "Date_de_naissance": "2022-02-13"
-        }
-      }
-    ],
-    "representant_legal": {
-      "id": 5,
-      "nom": "Salma",
-      "prenom": "ouali",
-      "Email": "salma@gmail.com",
-      "Association": "4C",
-      "telephone": 55422154,
-      "Adresse": "Bizerte",
-      "CIN": 11454854,
-      "Date_de_naissance": "17-02-1999"
-    }
-  },
-  {
+     {
     "id": 2,
     "nom_association": "JAMIATY",
     "Statut": "Fermeé",
