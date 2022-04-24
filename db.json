@@ -6,5 +6,225 @@
         { "id" : 4 , "titre_offre" : "offre__4" , "statut_offer" : "Fermée" , "Description_offre" : "Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et l'a brouillé pour en faire un livre de spécimens de caractères. Il a survécu non seulement à cinq siècles, mais aussi au saut dans la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum"},
         { "id" : 5 , "titre_offre" : "offre__5" , "statut_offer" : "Publiée" , "Description_offre" : "Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et l'a brouillé pour en faire un livre de spécimens de caractères. Il a survécu non seulement à cinq siècles, mais aussi au saut dans la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum"},
         { "id" : 6 , "titre_offre" : "offre__6" , "statut_offer" : "Fermée" , "Description_offre" : "Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et l'a brouillé pour en faire un livre de spécimens de caractères. Il a survécu non seulement à cinq siècles, mais aussi au saut dans la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum"}
+],
+ "DemandesAssociation": [
+  {
+    "id": 1,
+    "nom_association": "CONECT",
+    "Statut": "Actif",
+    "logo": "CONECT.jpg",
+    "matricule": 5485452152,
+    "RNE": "0454775C",
+    "Fichier_juridique": "Fichier.pdf",
+    "ville": "Ariana",
+    "pays": "Tunis",
+    "vocation": "Education et formation",
+    "Date_d_inscrption": "2022-02-14",
+    "partenaires": [
+      {
+        "id": 6,
+        "name": "ISET Bizerte",
+        "logo": "IsetBizerte.jpg",
+        "date_partenariat": "2022-02-13",
+        "representant": {
+          "id": 1,
+          "nom": "Zemzem",
+          "prenom": "Bilel",
+          "Email": "bilelZemzem@gmail.com",
+          "telephone": 52159357,
+          "Adresse": "Bizerte",
+          "CIN": 11547857,
+          "Date_de_naissance": "2022-02-13"
+        }
+      },
+      {
+        "id": 4,
+        "name": "ISET Rades",
+        "logo": "IsetRades.jpg",
+        "date_partenariat": "2022-02-13",
+        "representant": {
+          "id": 1,
+          "nom": "Zoghbi",
+          "prenom": "Imen",
+          "Email": "ZoghbiImen@gmail.com",
+          "telephone": 85236974,
+          "Adresse": "Rades",
+          "CIN": 78965412,
+          "Date_de_naissance": "2022-02-13"
+        }
+      }
+    ],
+    "representant_legal": {
+      "id": 5,
+      "nom": "Salma",
+      "prenom": "ouali",
+      "Email": "salma@gmail.com",
+      "Association": "4C",
+      "telephone": 55422154,
+      "Adresse": "Bizerte",
+      "CIN": 11454854,
+      "Date_de_naissance": "17-02-1999"
+    }
+  },
+  {
+    "id": 2,
+    "nom_association": "JAMIATY",
+    "Statut": "Fermeé",
+    "logo": "Jamaity.png",
+    "matricule": 247548521,
+    "RNE": "075C547B",
+    "Fichier_juridique": "Fichier.png",
+    "ville": "Monasstir",
+    "pays": "Tunis",
+    "vocation": "Bienfaisance",
+    "Date_d_inscrption": "2022-03-15",
+    "partenaires": null,
+    "representant_legal": {
+      "id": 1,
+      "nom": "Miled",
+      "prenom": "brahem",
+      "Email": "brahemmiled@gmail.com",
+      "telephone": 52159357,
+      "Adresse": "Bizerte",
+      "CIN": 11547857,
+      "Date_d_emission_cin": "15-02-2002",
+      "Date_de_naissance": "2022-02-13"
+    },
+    "administrateur": {
+      "id": 5,
+      "nomadmin": "Sawsen",
+      "prenomadmin": "jendoubi",
+      "Email": "sawsen.jandoubi@gmail.com",
+      "telephone": 24445854
+    }
+  },
+  {
+    "id": 3,
+    "nom_association": "Association maram",
+    "Statut": "Actif",
+    "logo": "associationMaram.png",
+    "matricule": 4754545454,
+    "RNE": "0478542Z",
+    "Fichier_juridique": "Fichier.jpg",
+    "ville": "Bizerte",
+    "pays": "Tunis",
+    "vocation": "Arts",
+    "Date_d_inscrption": "2022-04-20",
+    "partenaires": null,
+    "representant_legal": {
+      "id": 4,
+      "nom": "Maram",
+      "prenom": "bourguiba",
+      "Email": "bourguiba@gmail.com",
+      "telephone": 22145854,
+      "Adresse": "Sousse",
+      "CIN": 11455715,
+      "Date_d_emission_cin": "01-02-2003",
+      "Date_de_naissance": "02-01-1999"
+    },
+    "administrateur": {
+      "id": 6,
+      "nomadmin": "Wajiha",
+      "prenomadmin": "saadi",
+      "Email": "wajiha@gmail.com",
+      "telephone": 22145854
+    }
+  },
+  {
+    "id": 4,
+    "nom_association": "Jeune leaders",
+    "Statut": "Nouvelle",
+    "logo": "JeuneLeaders.png",
+    "matricule": 854754182,
+    "RNE": "050FF54V",
+    "Fichier_juridique": "Fichier.pdf",
+    "ville": "Mahdia",
+    "pays": "Tunis",
+    "vocation": "Sport",
+    "Date_d_inscrption": "2022-02-13",
+    "partenaires": null,
+    "representant_legal": {
+      "id": 3,
+      "nom": "Monia",
+      "prenom": "nammane",
+      "Email": "monia@gmail.com",
+      "telephone": 27514785,
+      "Adresse": "Metline",
+      "CIN": 11457469,
+      "Date_d_emission_cin": "01-02-2001",
+      "Date_de_naissance": "17-02-2004"
+    },
+    "administrateur": {
+      "id": 7,
+      "nomadmin": "Nidhal",
+      "prenomadmin": "saadi",
+      "Email": "nidhal@gmail.com",
+      "telephone": 22145854
+    }
+  },
+  {
+    "id": 5,
+    "nom_association": "JAMIATY",
+    "Statut": "Fermeé",
+    "logo": "Jamaity.png",
+    "matricule": 247548521,
+    "RNE": "075C547B",
+    "Fichier_juridique": "Fichier.png",
+    "ville": "Monasstir",
+    "pays": "Tunis",
+    "vocation": "Bienfaisance",
+    "Date_d_inscrption": "2022-03-15",
+    "partenaires": null,
+    "representant_legal": {
+      "id": 1,
+      "nom": "Miled",
+      "prenom": "brahem",
+      "Email": "brahemmiled@gmail.com",
+      "telephone": 52159357,
+      "Adresse": "Bizerte",
+      "CIN": 11547857,
+      "Date_d_emission_cin": "15-02-2002",
+      "Date_de_naissance": "2022-02-13"
+    },
+    "administrateur": {
+      "id": 5,
+      "nomadmin": "Sawsen",
+      "prenomadmin": "jendoubi",
+      "Email": "sawsen.jandoubi@gmail.com",
+      "telephone": 24445854
+    }
+  },
+  {
+    "id": 6,
+    "nom_association": "JCI",
+    "Statut": "Fermeé",
+    "logo": "jci.jpg",
+    "matricule": 774585454,
+    "RNE": "07CC654D",
+    "Fichier_juridique": "Fichier.jpg",
+    "ville": "Metline",
+    "pays": "Tunis",
+    "vocation": "Communication ",
+    "Date_d_inscrption": "2022-03-13",
+    "partenaires": null,
+    "representant_legal": {
+      "id": 5,
+      "nom": "salim",
+      "prenom": "khalbous",
+      "Email": "slim@gmail.com",
+      "telephone": 22785487,
+      "Adresse": "Tunis",
+      "CIN": 11854834,
+      "Date_d_emission_cin": "01-02-2001",
+      "Date_de_naissance": "17-02-2002"
+    },
+    "administrateur": {
+      "id": 8,
+      "nomadmin": "Bassem",
+      "prenomadmin": "bourguiba",
+      "Email": "bassem@gmail.com",
+      "telephone": 54854575
+    }
+  }
 ]
 }
