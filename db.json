@@ -37,38 +37,6 @@
           "Date_de_naissance": "2022-02-13"
         }
       },
-     {
-    "id": 2,
-    "nom_association": "JAMIATY",
-    "Statut": "Fermeé",
-    "logo": "Jamaity.png",
-    "matricule": 247548521,
-    "RNE": "075C547B",
-    "Fichier_juridique": "Fichier.png",
-    "ville": "Monasstir",
-    "pays": "Tunis",
-    "vocation": "Bienfaisance",
-    "Date_d_inscrption": "2022-03-15",
-    "partenaires": null,
-    "representant_legal": {
-      "id": 1,
-      "nom": "Miled",
-      "prenom": "brahem",
-      "Email": "brahemmiled@gmail.com",
-      "telephone": 52159357,
-      "Adresse": "Bizerte",
-      "CIN": 11547857,
-      "Date_d_emission_cin": "15-02-2002",
-      "Date_de_naissance": "2022-02-13"
-    },
-    "administrateur": {
-      "id": 5,
-      "nomadmin": "Sawsen",
-      "prenomadmin": "jendoubi",
-      "Email": "sawsen.jandoubi@gmail.com",
-      "telephone": 24445854
-    }
-  },
   {
     "id": 3,
     "nom_association": "Association maram",
